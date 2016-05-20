@@ -1,7 +1,7 @@
 // Functions for computing the L-moments of a sample,
 // plus a bunch of other auxiliar functions
 
-// Function prototypes
+// Function prototypes 
 void pwm(float series[], int n, float beta[], float A, float B, int isBeta);
 void lMoments(float series[], int n, float lMoment[], float A, float B);
 
