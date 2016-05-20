@@ -16,7 +16,7 @@ long int factorial(int anInteger) {
 	return(anInteger);
 }
 
-// gammaLn()
+// gammaLn() 
 // Returns the natural logarithm of the gamma function, ln[gamma(xx)] for xx > 0
 float gammaLn(float xx) {
 
